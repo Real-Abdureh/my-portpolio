@@ -1,0 +1,16 @@
+:root{
+    --maniColor:#606B56;
+    --secondaryColor:#515a48;
+
+    --borderColor:#161914;
+
+    --mainText:#fff;
+    --secondaryText:#eeeeee
+
+    --themeDotBorder:#fff;
+
+    --PreViewBg:rgb(81, 90, 72, 0.8);
+    --PreViewShadow:#2a2f25;
+
+    --buttonColor:rgb(11, 65, 11);
+}
