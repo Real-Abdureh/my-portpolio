@@ -235,7 +235,7 @@ h6 { font-size: 16px;}
     width: 300px;
     border: 1.5px solid #17a2b8;
     background-color: var(--PreViewBg);
-    padding: 15px;
+    padding: 12px;
     position: relative;
 }
 
@@ -301,6 +301,7 @@ h6 { font-size: 16px;}
     gap: 20px;
     justify-content: center;
     padding-bottom: 50px;
+    
 
 }
 
